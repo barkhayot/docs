@@ -72,7 +72,7 @@ If your commits are in a non-default or non-`gh-pages` branch and you'd like the
 
 {% warning %}
 
-Changing the default branch of the repository will change it for all repository collaborators. Only do this if you want the new branch to become the base against which all future pull requests and commits will be made.
+Changing the default branch of the repository will change it for all repository collaborators. Only do this if you want the new branch to become the base against which all future pull requests and  commits will be made.
 
 {% endwarning %}
 
